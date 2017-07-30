@@ -5,5 +5,6 @@ public class GitMan {
         System.out.println("1st line added");
         System.out.println("2nd line added");
         System.out.println("Created newGit branch");
+        System.out.println("Added for pull request");
     }
 }
